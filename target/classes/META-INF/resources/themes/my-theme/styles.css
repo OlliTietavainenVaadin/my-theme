@@ -1,0 +1,4 @@
+html, :host {
+--lumo-border-radius: 0.5em;
+--my-brand-color: purple;
+}
